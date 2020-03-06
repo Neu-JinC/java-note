@@ -1,7 +1,16 @@
 package job.written.examination;
 
+import com.google.common.collect.HashBasedTable;
+
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Hashtable;
+
 public class PrintSequence {
     public static void main(String[] args) {
+        HashMap hashMap = new HashMap();
+        Hashtable hashtable = new Hashtable();
+        HashSet hashSet = new HashSet<>();
         B b = new B();
     }
 }
